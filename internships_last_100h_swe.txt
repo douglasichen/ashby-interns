@@ -4,6 +4,7 @@ https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278
 https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa	claylabs	Software Engineering Intern 	2026-09-29T15:48:09.752+00:00
 https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099	dandy	Summer 2027 Internship - Software Engineering Intern	2026-09-30T23:31:41.311+00:00
 https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897	exegy	Software Automation Developer Intern	2026-10-01T18:09:43.196+00:00
+https://jobs.ashbyhq.com/laelaps/f7a7f427-7f13-4341-97d6-58a2d40a46df	laelaps	Software Engineer, Robot Autonomy (Actuator Control & Locomotion), Intern	2026-09-28T15:52:06.125+00:00
 https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f	perchwell	Software Engineering Intern	2026-09-29T13:38:37.600+00:00
 https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718	range	Software Engineering Intern	2026-10-01T23:50:30.689+00:00
 https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5	rhoda-ai	Robot Software Engineer Internship	2026-09-29T02:13:38.748+00:00
