@@ -1,0 +1,10 @@
+https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e	abridge	Member of Technical Staff, Intern (Spring 2027)	2026-09-30T21:53:46.260+00:00
+https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94	allen-control-systems	Software Engineering Intern, UX/UI 2027	2026-09-30T20:38:51.099+00:00
+https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f	base-power	Mechanical Engineering Intern	2026-09-30T21:34:37.852+00:00
+https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97	base-power	Electrical Engineering Intern	2026-09-30T21:34:59.586+00:00
+https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406	base-power	Hardware Reliability & Test Engineering Intern	2026-09-30T22:31:02.552+00:00
+https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31	dandy	Summer 2027 Internship - PhD Research Intern 	2026-09-30T16:49:54.851+00:00
+https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099	dandy	Summer 2027 Internship - Software Engineering Intern	2026-09-30T23:31:41.311+00:00
+https://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0	heron-power	Intern, Medium Voltage Test Engineering	2026-09-30T15:55:06.262+00:00
+https://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b	heron-power	Intern, Electronics Design Engineer, Summer 2027	2026-09-30T15:06:42.190+00:00
+https://jobs.ashbyhq.com/ibotta/eee07586-5d5f-4da9-8004-d49c0d5274f5	ibotta	Customer Operations Intern	2026-09-30T16:50:11.227+00:00
